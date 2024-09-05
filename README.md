@@ -1,4 +1,8 @@
-# Odin-Recipes
+## Odin-Recipes
 
-## This repository is my attempt at learning front-end development from the ground up, taking guidance from hands-on resourses, specifically, The Odin Project.
-## This repo only contains files using HTML, at least till date. It will be updated as and when I polish my CSS, Javascript and other frameworks like Node and React.
+# A growing collection of the most exquisite, delicious, brain-freezing, numbing, transcendental, nirvana-attaining recipes for disaster which will most definitely fulfill your desires of finally having the chicken drumsticks from "The Diary of a Wimpy Kid" and Krabby Patties.
+
+# Index
+Lasagna
+Elven Bread
+Sky Island-Bred Skyshark Roast
